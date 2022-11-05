@@ -1,2 +1,3 @@
-# ubc-assign4
-Practice repository for Assignment 4 of the UBC course
+### Practicing merge conflicts! 
+   
+This is a REMOTE change :o
